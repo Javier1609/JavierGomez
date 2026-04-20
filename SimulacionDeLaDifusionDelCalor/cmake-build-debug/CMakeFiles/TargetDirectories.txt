@@ -1,0 +1,3 @@
+D:/SimulacionDeLaDifusionDelCalor/cmake-build-debug/CMakeFiles/SimulacionDeLaDifusionDelCalor.dir
+D:/SimulacionDeLaDifusionDelCalor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SimulacionDeLaDifusionDelCalor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
